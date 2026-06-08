@@ -4,7 +4,7 @@ Website for the QUNELL brand — a manufacturer of window slope systems and cons
 
 ## Overview
 
-QUNELL is a manufacturing company specializing in window slope systems, trims, profiles, and related finishing products for the construction industry. The website serves as a corporate platform for presenting products, technical documentation, and partner information. :contentReference[oaicite:0]{index=0}
+QUNELL is a manufacturing company specializing in window slope systems, trims, profiles, and related finishing products for the construction industry. The website serves as a corporate platform for presenting products, technical documentation, and partner information.
 
 ## My Contribution
 
