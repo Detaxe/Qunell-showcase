@@ -49,22 +49,11 @@ QUNELL is a manufacturing company specializing in window slope systems, trims, p
 ### Home Page
 ![Homepage](screenshots/homepage.png)
 
+### Product Configurator
+![Product](screenshots/configurator.png)
+
 ### Product Catalog
 ![Catalog](screenshots/catalog.png)
 
 ### Product Details
 ![Product](screenshots/product.png)
-
-## Architecture
-
-```text
-Client
-   │
-   ▼
-Frontend
-   │
-   ▼
-Backend / CMS
-   │
-   ▼
-Database
